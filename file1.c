@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("Jenkins Test...job3..\n");
+printf("Jenkins Test...pipeline..\n");
 exit (0);
 }
